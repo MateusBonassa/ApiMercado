@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\coisas da facul\\6 termo\\Linguagens de Programacao 1\\Projetos\\TrabalhoECommerceAPI\\TrabalhoECommerceAPI\\TrabalhoECommerceAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\coisas da facul\\6 termo\\Linguagens de Programacao 1\\Projetos\\TrabalhoECommerceAPI\\TrabalhoECommerceAPI\\TrabalhoECommerceAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\coisas da facul\\6 termo\\Linguagens de Programacao 1\\Projetos\\TrabalhoECommerceAPI\\TrabalhoECommerceAPI\\TrabalhoECommerceAPI.csproj",
+        "projectName": "TrabalhoECommerceAPI",
+        "projectPath": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\coisas da facul\\6 termo\\Linguagens de Programacao 1\\Projetos\\TrabalhoECommerceAPI\\TrabalhoECommerceAPI\\TrabalhoECommerceAPI.csproj",
+        "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\coisas da facul\\6 termo\\Linguagens de Programacao 1\\Projetos\\TrabalhoECommerceAPI\\TrabalhoECommerceAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mateu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.30, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
